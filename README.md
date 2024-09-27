@@ -4,7 +4,7 @@ This project aims to classify potato leaf images into three categories — Early
 ## Dataset
 The dataset is taken from Kaggle's Plant Village dataset and contains 2,152 images of potato leaves divided into the following classes:
 
-Potato___Early_blight < br />
+Potato___Early_blight <br />
 Potato___Late_blight < br />
 Potato___Healthy< br />
 The images are of variable sizes and are processed into 256x256 resolution for uniformity during training.< br / >
